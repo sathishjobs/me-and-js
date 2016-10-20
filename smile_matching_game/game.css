@@ -1,0 +1,42 @@
+body {
+  font-size: 14px;
+}
+header {
+  color: #FF9800;
+    font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+    font-weight: 900;
+    letter-spacing: 0.01em;
+    text-align:center;
+}
+input {
+  color: #000080;
+  font-size: 16px;
+  font-weight: 600;
+}
+hr {
+  padding: 0;
+  margin: 0;
+  width: 992px;
+}
+#bottom {
+  margin-top: 499px;
+}
+div {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+
+}
+.game-ground
+{
+  position:relative;
+  left:79px;
+}
+
+#rightSide {
+  border-left: 1px solid #FF9800;
+  left: 501px;
+}
+img {
+  position: absolute;
+}
