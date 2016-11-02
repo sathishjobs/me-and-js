@@ -1,1 +1,2 @@
 
+##Simple game in js
